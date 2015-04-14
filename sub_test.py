@@ -8,6 +8,4 @@ def class NetworkDevice(object):
     self.username = username
     self.password = password
     
-def class AuthData(object):
-  pass
-  
+
